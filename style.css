@@ -1,0 +1,12 @@
+.nav{
+    color: white;
+    background-color: grey;
+    display: flex;
+    justify-content:space-between;
+    font-style: roboto;
+}
+.nav-links{
+    color: white;
+    display: flex;
+    align-items: center;
+}
